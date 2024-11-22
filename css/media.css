@@ -1,0 +1,84 @@
+@media screen and (max-width: 992px) {
+ nav button h4 {
+    font-size: 1.9vw;
+}
+nav .logo h3 {
+    font-size: 1.9vw;
+}
+.rightPartOfpage7{
+    display: flex;
+    gap: 25px;
+}
+.pageEight .elements {
+    padding: 20px 0;
+}
+.swiper {
+    height: 60%;
+}
+.swipperWrapper {
+    height: 50vh;
+}
+.pageSix {
+    padding: 100px 0 0;
+}
+.pageEleven .mainHeader h2 {
+    font-size: 16vw;
+}
+}
+
+@media screen and (max-width:780px) {
+.pageOneOverlayWithContent h1 {
+    font-size: 23vw;
+    line-height: 62vw;
+}
+
+.pageEleven {
+    padding: 40px;
+}
+.pageEleven .upperFooter {
+    flex-direction: column;
+    gap: 20px;
+}
+.upperLeftFooter{
+    text-align: center;
+}
+.pageEleven {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.lowerFooter {
+    flex-direction: column;
+}
+
+
+}
+@media screen and (max-width:676px) {
+nav button h4 {
+    font-size: 3vw;
+}
+nav .logo h3 {
+    font-size: 3vw;
+}
+}
+@media screen and (max-width:550px) {
+.pageTwo {
+    height: 70vh;
+}
+.pageThree {
+
+    height: 65vh;
+}
+.pageFive {
+    height: 60vh;
+}
+.pageSeven {
+    padding: 100px 0 0;
+}
+.pageSevenContent {
+    padding: 100px 0 0;
+}
+
+}
